@@ -1,3 +1,5 @@
+//code returns a list of habitable planets, filtered from official NASA data collection. 
+
 const { parse } = require('csv-parse');
 const fs = require('fs');
 
